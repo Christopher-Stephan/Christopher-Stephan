@@ -1,4 +1,4 @@
-# Hi there I'm [Christopher Stephan] 👋
+# Hi there I'm Christopher Stephan 👋
 
 Welcome to my GitHub profile! I'm currently completing my MSc. Business Analytics & Big Data at IE University, leveraging our AI based world and securing a headstart into the future. I enjoy learning and solving problems, contributing all I can to the team, projects, and clients I work with!
 
