@@ -1,4 +1,6 @@
-# Hi there I'm Christopher Stephan 👋
+# Hello, I'm Christopher! Welcome to my profile 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopherstephan/)
 
 Welcome to my GitHub profile! I'm currently completing my MSc. Business Analytics & Big Data at IE University, leveraging our AI based world and securing a headstart into the future. I enjoy learning and solving problems, contributing all I can to the team, projects, and clients I work with!
 
