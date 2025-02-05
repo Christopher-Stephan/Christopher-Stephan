@@ -4,7 +4,12 @@
 My background is in civil engineering with 2 years experience in the construction industry in Canada. My passion for data & AI brought me to Madrid where I completed my MSc. in Business Analytics & Big Data, with a concentration on Data Science. Leveraging all things data, from the cloud, to machine learning, and databases, I am happy to share my experiences with you, and potentially work together on projects in the future! 
 
 ## 🔥 What I'm Working On
-Insert current projects here
+
+**🍣 Object Detection Modeling:** 
+Deep Learning course within Master in Business Analytics & Big Data. Creating a deep learning neural net model with capabilities of detecting certain types of food, based on image classification.[Link to project](https://github.com/Christopher-Stephan/deep_learning)
+
+**📦 Retail & Consumer Goods Analysis:** 
+Consumer Goods course within Master in Business Analytics & Big Data. Analyzing a large POS dataset with alcoholic beverages in IOWA, USA and presenting a business case. [Link to project](https://github.com/Christopher-Stephan/rcg)
 
 ## 🛠 Tech Stack & Skills  
 
