@@ -6,26 +6,28 @@ My background is in civil engineering with 2 years experience in the constructio
 ## 🔥 What I'm Working On
 Insert current projects here
 
-## 💻 Tech Stack & Skills 
--**Languages:**
+## 🛠 Tech Stack & Skills  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
+**Languages:**  
 
--**Data & Tools:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**Data & Tools:**  
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 
--**Soft Skills:**
+**Soft Skills:**  
 
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF5733?style=for-the-badge)  
 ![Teamwork](https://img.shields.io/badge/Teamwork-4CAF50?style=for-the-badge)  
 ![Adaptability](https://img.shields.io/badge/Adaptability-008080?style=for-the-badge)  
 ![Creativity](https://img.shields.io/badge/Creativity-FF9800?style=for-the-badge)  
 ![Communication](https://img.shields.io/badge/Communication-9C27B0?style=for-the-badge)  
+
 
 ## 📌 Featured Projects
 Insert projects here 
