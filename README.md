@@ -21,7 +21,9 @@ Insert current projects here
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF5733?style=for-the-badge)  ![Teamwork](https://img.shields.io/badge/Teamwork-4CAF50?style=for-the-badge)  ![Adaptability](https://img.shields.io/badge/Adaptability-008080?style=for-the-badge)  ![Creativity](https://img.shields.io/badge/Creativity-FF9800?style=for-the-badge)  ![Communication](https://img.shields.io/badge/Communication-9C27B0?style=for-the-badge)  
 
 ## 📌 Featured Projects
-Insert projects here 
+
+**⚡🔋 EDP Sustainability Datathon:** 
+In a team of 6, proposed a business solution to EDP Renewables on when and how to charge their batteries for power grids. This project featured 4 datasets with 6 years worth of data, in which we implemented exploratory data analysis, machine learning models & forecasting algorithms. [Link to project](https://github.com/Christopher-Stephan/datathon_yottabyte) 
 
 ## 📫 Let's Connect
 I’m always open to collaborating on new projects, discussing innovative ideas, or just geeking out over data and AI. Feel free to reach out!
