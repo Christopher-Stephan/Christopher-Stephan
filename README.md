@@ -2,27 +2,25 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopherstephan/)
 
-Welcome to my GitHub profile! I'm currently completing my MSc. Business Analytics & Big Data at IE University, leveraging our AI based world and securing a headstart into the future. I enjoy learning and solving problems, contributing all I can to the team, projects, and clients I work with!
+## About Me
+My background is in civil engineering with 2 years experience in the construction industry in Canada. My passion for data & AI brought me to Madrid where I completed my MSc. in Business Analytics & Big Data, with a concentration on Data Science. Leveraging all things data, from the cloud, to machine learning, and databases, I am happy to share my experiences with you, and potentially work together on projects in the future! 
 
-## 🚀 About Me
+## 🔥 What I'm Working On
+Insert current projects here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning **[Python, SQL, Github]**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## 🔧 Technologies & Tools
-
+## 💻 Tech Stack & Skills 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 
-## 📈 GitHub Stats
+## 📌 Featured Projects
+Insert projects here 
 
+## 📫 Let's Connect
+inserrt here
+
+
+## 📈 GitHub Stats
 ![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
