@@ -3,13 +3,16 @@
 ## About Me
 My background is in civil engineering with 2 years experience in the construction industry in Canada. My passion for data & AI brought me to Madrid where I completed my MSc. in Business Analytics & Big Data, with a concentration on Data Science. Leveraging all things data, from the cloud, to machine learning, and databases, I am happy to share my experiences with you, and potentially work together on projects in the future! 
 
-## 🔥 What I'm Working On
+## 📌 Featured Projects
+
+**⚡🔋 EDP Sustainability Datathon:** 
+In a team of 6, proposed a business solution to EDP Renewables on when and how to charge their batteries for power grids. This project featured 4 datasets with 6 years worth of data, in which we implemented exploratory data analysis, machine learning models & forecasting algorithms. [Link to project](https://github.com/Christopher-Stephan/datathon_yottabyte) 
 
 **🍣 Object Detection Modeling:** 
-Deep Learning course within Master in Business Analytics & Big Data. Creating a deep learning neural net model with capabilities of detecting certain types of food, based on image classification.[Link to project](https://github.com/Christopher-Stephan/deep_learning)
+Deep Learning course within Master in Business Analytics & Big Data. Creating a deep learning neural net model with capabilities of detecting certain types of food, based on image classification.[Link to project](https://github.com/maudlcrf/deep_learning)
 
 **📦 Retail & Consumer Goods Analysis:** 
-Consumer Goods course within Master in Business Analytics & Big Data. Analyzing a large POS dataset with alcoholic beverages in IOWA, USA and presenting a business case. [Link to project](https://github.com/Christopher-Stephan/rcg)
+Consumer Goods course within Master in Business Analytics & Big Data. Analyzing a large POS dataset with alcoholic beverages in IOWA, USA and presenting a business case. [Link to project](https://github.com/maudlcrf/rcg/tree/main/group_project)
 
 ## 🛠 Tech Stack & Skills  
 
@@ -24,11 +27,6 @@ Consumer Goods course within Master in Business Analytics & Big Data. Analyzing 
 **Soft Skills:**  
 
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF5733?style=for-the-badge)  ![Teamwork](https://img.shields.io/badge/Teamwork-4CAF50?style=for-the-badge)  ![Adaptability](https://img.shields.io/badge/Adaptability-008080?style=for-the-badge)  ![Creativity](https://img.shields.io/badge/Creativity-FF9800?style=for-the-badge)  ![Communication](https://img.shields.io/badge/Communication-9C27B0?style=for-the-badge)  
-
-## 📌 Featured Projects
-
-**⚡🔋 EDP Sustainability Datathon:** 
-In a team of 6, proposed a business solution to EDP Renewables on when and how to charge their batteries for power grids. This project featured 4 datasets with 6 years worth of data, in which we implemented exploratory data analysis, machine learning models & forecasting algorithms. [Link to project](https://github.com/Christopher-Stephan/datathon_yottabyte) 
 
 ## 📫 Let's Connect
 I’m always open to collaborating on new projects, discussing innovative ideas, or just geeking out over data and AI. Feel free to reach out!
