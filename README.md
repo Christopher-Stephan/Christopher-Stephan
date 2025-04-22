@@ -5,6 +5,9 @@ My background is in civil engineering with 2 years experience in the constructio
 
 ## 📌 Featured Projects
 
+**🗞️ Microsoft Recommender System:**
+Developed a scalable, AI-driven news recommendation system using LLM's, LightGBM, and Streamlit for real-time, personalized content delivery. [Link to project](https://github.com/Christopher-Stephan/Microsoft_Capstone_Project) 
+
 **⚡🔋 EDP Sustainability Datathon:** 
 In a team of 6, proposed a business solution to EDP Renewables on when and how to charge their batteries for power grids. This project featured 4 datasets with 6 years worth of data, in which we implemented exploratory data analysis, machine learning models & forecasting algorithms. [Link to project](https://github.com/Christopher-Stephan/datathon_yottabyte) 
 
